@@ -4,6 +4,7 @@ package com.parse.starter;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.text.Editable;
@@ -12,6 +13,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -56,8 +58,20 @@ public class ListActivity extends Activity {
             public void afterTextChanged(Editable s) {
                 String text = etSearch.getText().toString().toLowerCase(Locale.getDefault());
                 Log.i("hii12",text);
+                listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                    @Override
+                    public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                        Intent intent=new Intent(ListActivity.this, addSymptoms.class);
+                        Log.i("Chosen",sampleList.get(i).getId().toString());
+                        Log.i("Name Chosen",sampleList.get(i).getName().toString());
+                        intent.putExtra("ID",sampleList.get(i).getId().toString());
+                        intent.putExtra("Symptom",sampleList.get(i).getName().toString());
+                        startActivity(intent);
+                    }
+                });
 
                 sampleAdapter.filter(text);
+
 
             }
 
@@ -97,6 +111,7 @@ public class ListActivity extends Activity {
                     JSONObject jsonObjectInside = jsonArray.getJSONObject(i);
 
                     String id = jsonObjectInside.getString("ID");
+
                     String name = jsonObjectInside.getString("Name");
                     Log.i("symptoms1",name);
                     sampleData.add(new SampleData(id, name));
@@ -139,6 +154,18 @@ public class ListActivity extends Activity {
 
                     sampleAdapter= new SampleAdapter(ListActivity.this, sampleList);
                     listView.setAdapter(sampleAdapter);
+                    listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                        @Override
+                        public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                            Intent intent=new Intent(ListActivity.this, addSymptoms.class);
+                            Log.i("Chosen",sampleList.get(i).getId().toString());
+                            Log.i("Name Chosen",sampleList.get(i).getName().toString());
+                            intent.putExtra("ID",sampleList.get(i).getId().toString());
+                            intent.putExtra("Symptom",sampleList.get(i).getName().toString());
+                            startActivity(intent);
+                        }
+                    });
+
                 } catch (Exception e) {
 
 

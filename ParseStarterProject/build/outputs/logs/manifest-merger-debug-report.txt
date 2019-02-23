@@ -1,15 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\e412950d789a16d6fd4dae1f5f9b6f8b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\7565d33ac78ad47c846ad3c99d26b3bf\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\37309fd14d4e66e6e9631d6889c1c11a\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\e11b32d6f8f845dd4ec506b3c64d3154\AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\465cf2cea5170a82542f745e8381a2c9\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\6e125fe975004983b9e23d03b4ee94c7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1f1485f7f83db4ddb5468c5e3d08a7b\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\57721e1aed1fd143e85a9548bad0fe20\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ca8e1189f558ebc6a57c855489336c83\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\fa1ee8ea58a9ba3582148e89f035ede8\AndroidManifest.xml:16:1-20:12
@@ -59,25 +60,25 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Shubham\.
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\6e911eb34520dcb4bce297119c42e851\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\484e984500e9935afcfb0167d2b135df\AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0d4132c7145b196a66826a9c45912b0d\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\02926ec9b954ca3a4c2437fcb969c1b9\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\02926ec9b954ca3a4c2437fcb969c1b9\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\ce1e638d995cd2f93334ceb2d42c16f2\AndroidManifest.xml:21:5-67
@@ -103,9 +104,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Shubham
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\ba4bc02be2ee12330788bfe534589a5e\AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\ba4bc02be2ee12330788bfe534589a5e\AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:6:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\02926ec9b954ca3a4c2437fcb969c1b9\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\02926ec9b954ca3a4c2437fcb969c1b9\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\ce1e638d995cd2f93334ceb2d42c16f2\AndroidManifest.xml:22:5-79
@@ -125,21 +126,21 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Shubham
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\ba4bc02be2ee12330788bfe534589a5e\AndroidManifest.xml:20:5-79
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\ba4bc02be2ee12330788bfe534589a5e\AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:16:5-79
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:16:22-76
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:5-81
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:22-78
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:22-78
 application
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:19:5-42:19
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:11:5-30:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\7565d33ac78ad47c846ad3c99d26b3bf\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\7565d33ac78ad47c846ad3c99d26b3bf\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\37309fd14d4e66e6e9631d6889c1c11a\AndroidManifest.xml:5:5-9:19
@@ -150,6 +151,8 @@ MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Shubham\.gradle
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\465cf2cea5170a82542f745e8381a2c9\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\6e125fe975004983b9e23d03b4ee94c7\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\6e125fe975004983b9e23d03b4ee94c7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1f1485f7f83db4ddb5468c5e3d08a7b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1f1485f7f83db4ddb5468c5e3d08a7b\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\57721e1aed1fd143e85a9548bad0fe20\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\57721e1aed1fd143e85a9548bad0fe20\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ca8e1189f558ebc6a57c855489336c83\AndroidManifest.xml:7:5-20
@@ -231,37 +234,41 @@ MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Shubh
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0d4132c7145b196a66826a9c45912b0d\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0d4132c7145b196a66826a9c45912b0d\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:22:9-43
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:24:9-40
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:12:9-43
+activity#com.parse.starter.addSymptoms
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:9-58
+	android:name
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:19-46
 activity#com.parse.starter.MainActivity
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:26:9-34:20
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:18:9-26:20
 	android:label
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:28:13-45
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:20:13-50
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:27:13-41
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:24:27-74
 activity#com.parse.starter.ListActivity
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:35:9-38:20
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:27:9-29:62
 	android:label
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:37:13-45
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:29:13-50
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:36:13-41
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:28:13-41
 uses-sdk
 INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
@@ -278,6 +285,8 @@ MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Shubham\.gradle
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\465cf2cea5170a82542f745e8381a2c9\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\6e125fe975004983b9e23d03b4ee94c7\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\6e125fe975004983b9e23d03b4ee94c7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1f1485f7f83db4ddb5468c5e3d08a7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1f1485f7f83db4ddb5468c5e3d08a7b\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\57721e1aed1fd143e85a9548bad0fe20\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\57721e1aed1fd143e85a9548bad0fe20\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ca8e1189f558ebc6a57c855489336c83\AndroidManifest.xml:5:5-43

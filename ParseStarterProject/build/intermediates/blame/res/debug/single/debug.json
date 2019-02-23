@@ -188,6 +188,10 @@
         "source": "C:\\Users\\Shubham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f23cb1b056f05e8f42be67742d7fc3b5\\res\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
+        "merged": "C:\\symptoms\\symptoms\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_symptoms.xml.flat",
+        "source": "C:\\symptoms\\symptoms\\ParseStarterProject\\src\\main\\res\\layout\\activity_add_symptoms.xml"
+    },
+    {
         "merged": "C:\\symptoms\\symptoms\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause_light.png.flat",
         "source": "C:\\Users\\Shubham\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\465cf2cea5170a82542f745e8381a2c9\\res\\drawable-xxhdpi\\ic_pause_light.png"
     },

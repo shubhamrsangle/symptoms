@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (c) 2015-present, Parse, LLC.
-  ~ All rights reserved.
-  ~
-  ~ This source code is licensed under the BSD-style license found in the
-  ~ LICENSE file in the root directory of this source tree. An additional grant
-  ~ of patent rights can be found in the PATENTS file in the same directory.
--->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.parse.starter"
     android:targetSandboxVersion="2"
@@ -45,9 +37,10 @@
         android:label="@string/app_name"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.parse.starter.addSymptoms" />
         <activity
             android:name="com.parse.starter.MainActivity"
-            android:label="@string/app_name" >
+            android:label="Parse Starter Project" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -56,8 +49,7 @@
         </activity>
         <activity
             android:name="com.parse.starter.ListActivity"
-            android:label="@string/app_name" >
-        </activity>
+            android:label="Parse Starter Project" />
 
         <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
 

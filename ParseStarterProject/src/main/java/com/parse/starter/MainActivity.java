@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
   public void list(View view)
   {
-      startActivity(new Intent(MainActivity.this, ListActivity.class));
+      startActivity(new Intent(MainActivity.this, addSymptoms.class));
   }
 
 

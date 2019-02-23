@@ -17,4 +17,5 @@
     <string name="title_activity_rider">Map</string>
     <string name="title_activity_driver_location">Map</string>
     <string name="search">search....</string>
+    <string name="button">Button</string>
 </resources>
