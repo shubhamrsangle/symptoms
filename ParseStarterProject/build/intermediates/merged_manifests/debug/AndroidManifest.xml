@@ -36,6 +36,7 @@
         android:label="@string/app_name"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.parse.starter.Emergency" />
         <activity android:name="com.parse.starter.addSymptoms" />
         <activity
             android:name="com.parse.starter.MainActivity"

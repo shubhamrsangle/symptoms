@@ -20,7 +20,7 @@
         android:layout_marginRight="200dp"
         android:layout_marginBottom="200dp"
         android:onClick="goToSymptoms"
-        android:text="Button" />
+        android:text="AddSymptoms" />
 
     <EditText
         android:id="@+id/symps"

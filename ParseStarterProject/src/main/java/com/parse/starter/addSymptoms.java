@@ -10,8 +10,8 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-import static com.parse.starter.MainActivity.Id;
-import static com.parse.starter.MainActivity.SymList;
+import static com.parse.starter.Emergency.Id;
+import static com.parse.starter.Emergency.SymList;
 
 public class addSymptoms extends AppCompatActivity {
     public void goToSymptoms(View view){
@@ -26,6 +26,8 @@ public class addSymptoms extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_symptoms);
         Intent intent=getIntent();
+        String gender=intent.getStringExtra("Gender");
+        Toast.makeText(addSymptoms.this, gender, Toast.LENGTH_SHORT).show();
         SymList.add(intent.getStringExtra("Symptom"));
         Id.put(intent.getStringExtra("Symptom"),intent.getStringExtra("ID"));
         EditText editText=(EditText)findViewById(R.id.symps);

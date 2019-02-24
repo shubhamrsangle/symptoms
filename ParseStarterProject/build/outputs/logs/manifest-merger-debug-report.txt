@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\e412950d789a16d6fd4dae1f5f9b6f8b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\7565d33ac78ad47c846ad3c99d26b3bf\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\37309fd14d4e66e6e9631d6889c1c11a\AndroidManifest.xml:2:1-10:12
@@ -60,20 +60,20 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Shubham\.
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\6e911eb34520dcb4bce297119c42e851\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\484e984500e9935afcfb0167d2b135df\AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0d4132c7145b196a66826a9c45912b0d\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
@@ -140,7 +140,7 @@ ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml
 	android:name
 		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:9:22-78
 application
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:11:5-30:19
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:11:5-31:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\7565d33ac78ad47c846ad3c99d26b3bf\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\7565d33ac78ad47c846ad3c99d26b3bf\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Shubham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\37309fd14d4e66e6e9631d6889c1c11a\AndroidManifest.xml:5:5-9:19
@@ -243,32 +243,36 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Shubham\.gradle\cac
 		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:16:9-40
 	android:name
 		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:12:9-43
+activity#com.parse.starter.Emergency
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:19-44
 activity#com.parse.starter.addSymptoms
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:9-58
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:18:9-49
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:17:19-46
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:18:19-46
 activity#com.parse.starter.MainActivity
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:18:9-26:20
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:20:13-50
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:21:13-50
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:25:27-74
 activity#com.parse.starter.ListActivity
-ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:27:9-29:62
+ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:28:9-30:53
 	android:label
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:29:13-50
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:30:13-50
 	android:name
-		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:28:13-41
+		ADDED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml:29:13-41
 uses-sdk
 INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\symptoms\symptoms\ParseStarterProject\src\main\AndroidManifest.xml

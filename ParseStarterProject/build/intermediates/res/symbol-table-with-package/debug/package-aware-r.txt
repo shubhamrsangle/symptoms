@@ -882,6 +882,8 @@ id action_mode_close_button
 id activity_chooser_view_content
 id adjust_height
 id adjust_width
+id age
+id ageVal
 id alertTitle
 id always
 id android_pay
@@ -959,6 +961,7 @@ id end_text
 id et_search
 id expand_activities_button
 id expanded_menu
+id gender
 id gone
 id google_wallet_classic
 id google_wallet_grayscale
@@ -1032,6 +1035,10 @@ id progressBar
 id progress_circular
 id progress_horizontal
 id radio
+id radioFemale
+id radioMale
+id radioOther
+id radioSex
 id rfc822
 id right
 id route_name
@@ -1062,6 +1069,16 @@ id showHome
 id showTitle
 id slide
 id spacer
+id spec1
+id spec2
+id spec3
+id spec4
+id spec5
+id spec6
+id spec7
+id spec8
+id special
+id specialist
 id split_action_bar
 id spread
 id spread_inside
@@ -1141,6 +1158,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_add_symptoms
+layout activity_emergency
 layout activity_main
 layout cast_expanded_controller_activity
 layout cast_help_text

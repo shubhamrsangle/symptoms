@@ -28,16 +28,13 @@ import java.util.Map;
 
 
 public class MainActivity extends AppCompatActivity {
-    public static ArrayList<String> SymList =new ArrayList<String>();
-    public static Map<String, String> Id = new HashMap<String, String>();
+
 
 
   public void list(View view)
   {
-      SymList.clear();
-      Id.clear();
-      Log.i("All","symlist cleared");
-      startActivity(new Intent(MainActivity.this, addSymptoms.class));
+
+      startActivity(new Intent(MainActivity.this, Emergency.class));
   }
 
 
