@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediFinder-PatiendEnd/MediFinder-PatiendEnd.iml" filepath="$PROJECT_DIR$/MediFinder-PatiendEnd/MediFinder-PatiendEnd.iml" />
       <module fileurl="file://$PROJECT_DIR$/symptoms.iml" filepath="$PROJECT_DIR$/symptoms.iml" />
     </modules>
   </component>

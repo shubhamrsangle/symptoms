@@ -1,2 +1,0 @@
-# Referenced at C:\symptoms\symptoms\ParseStarterProject\build\intermediates\merged_manifests\debug\AndroidManifest.xml:31
--keep class com.parse.starter.StarterApplication { <init>(); }
