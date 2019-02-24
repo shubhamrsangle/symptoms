@@ -1,6 +1,4 @@
 package com.parse.starter;
-
-
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;

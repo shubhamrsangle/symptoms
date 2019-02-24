@@ -592,19 +592,19 @@ public final class R {
         public static final int stop = 0x7f0800d1;
         public static final int submit_area = 0x7f0800d3;
         public static final int subtitle = 0x7f0800d4;
-        public static final int tabMode = 0x7f0800d6;
-        public static final int text = 0x7f0800da;
-        public static final int text2 = 0x7f0800dc;
-        public static final int textSpacerNoButtons = 0x7f0800dd;
-        public static final int time = 0x7f0800e2;
-        public static final int title = 0x7f0800e3;
-        public static final int title_bar = 0x7f0800e4;
-        public static final int title_template = 0x7f0800e5;
-        public static final int topPanel = 0x7f0800e9;
-        public static final int up = 0x7f0800ec;
-        public static final int useLogo = 0x7f0800ee;
-        public static final int withText = 0x7f0800f0;
-        public static final int wrap_content = 0x7f0800f2;
+        public static final int tabMode = 0x7f0800d7;
+        public static final int text = 0x7f0800db;
+        public static final int text2 = 0x7f0800dd;
+        public static final int textSpacerNoButtons = 0x7f0800de;
+        public static final int time = 0x7f0800e3;
+        public static final int title = 0x7f0800e4;
+        public static final int title_bar = 0x7f0800e5;
+        public static final int title_template = 0x7f0800e6;
+        public static final int topPanel = 0x7f0800ea;
+        public static final int up = 0x7f0800ed;
+        public static final int useLogo = 0x7f0800ef;
+        public static final int withText = 0x7f0800f1;
+        public static final int wrap_content = 0x7f0800f3;
     }
     public static final class integer {
         private integer() {}
@@ -689,7 +689,7 @@ public final class R {
         public static final int mr_media_route_controller_stop = 0x7f0d005b;
         public static final int mr_system_route_name = 0x7f0d005c;
         public static final int mr_user_route_category_name = 0x7f0d005d;
-        public static final int status_bar_notification_info_overflow = 0x7f0d0063;
+        public static final int status_bar_notification_info_overflow = 0x7f0d0064;
     }
     public static final class style {
         private style() {}

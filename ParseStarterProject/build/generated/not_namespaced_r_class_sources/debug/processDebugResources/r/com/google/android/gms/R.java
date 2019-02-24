@@ -449,21 +449,21 @@ public final class R {
         public static final int status_text = 0x7f0800d0;
         public static final int strict_sandbox = 0x7f0800d2;
         public static final int subtitle_view = 0x7f0800d5;
-        public static final int tab_host = 0x7f0800d7;
-        public static final int terrain = 0x7f0800d8;
-        public static final int test = 0x7f0800d9;
-        public static final int text = 0x7f0800da;
-        public static final int text1 = 0x7f0800db;
-        public static final int text2 = 0x7f0800dc;
-        public static final int textTitle = 0x7f0800de;
-        public static final int text_empty_message = 0x7f0800df;
-        public static final int text_list_view = 0x7f0800e0;
-        public static final int thing_proto = 0x7f0800e1;
-        public static final int title_view = 0x7f0800e6;
-        public static final int toolbar = 0x7f0800e7;
-        public static final int url = 0x7f0800ed;
-        public static final int wide = 0x7f0800ef;
-        public static final int wrap_content = 0x7f0800f2;
+        public static final int tab_host = 0x7f0800d8;
+        public static final int terrain = 0x7f0800d9;
+        public static final int test = 0x7f0800da;
+        public static final int text = 0x7f0800db;
+        public static final int text1 = 0x7f0800dc;
+        public static final int text2 = 0x7f0800dd;
+        public static final int textTitle = 0x7f0800df;
+        public static final int text_empty_message = 0x7f0800e0;
+        public static final int text_list_view = 0x7f0800e1;
+        public static final int thing_proto = 0x7f0800e2;
+        public static final int title_view = 0x7f0800e7;
+        public static final int toolbar = 0x7f0800e8;
+        public static final int url = 0x7f0800ee;
+        public static final int wide = 0x7f0800f0;
+        public static final int wrap_content = 0x7f0800f3;
     }
     public static final class integer {
         private integer() {}
@@ -553,14 +553,14 @@ public final class R {
         public static final int create_calendar_message = 0x7f0d004f;
         public static final int create_calendar_title = 0x7f0d0050;
         public static final int decline = 0x7f0d0051;
-        public static final int place_autocomplete_clear_button = 0x7f0d0060;
-        public static final int place_autocomplete_search_hint = 0x7f0d0061;
-        public static final int store_picture_message = 0x7f0d0064;
-        public static final int store_picture_title = 0x7f0d0065;
-        public static final int tagmanager_preview_dialog_button = 0x7f0d0066;
-        public static final int tagmanager_preview_dialog_message = 0x7f0d0067;
-        public static final int tagmanager_preview_dialog_title = 0x7f0d0068;
-        public static final int wallet_buy_button_place_holder = 0x7f0d006b;
+        public static final int place_autocomplete_clear_button = 0x7f0d0061;
+        public static final int place_autocomplete_search_hint = 0x7f0d0062;
+        public static final int store_picture_message = 0x7f0d0065;
+        public static final int store_picture_title = 0x7f0d0066;
+        public static final int tagmanager_preview_dialog_button = 0x7f0d0067;
+        public static final int tagmanager_preview_dialog_message = 0x7f0d0068;
+        public static final int tagmanager_preview_dialog_title = 0x7f0d0069;
+        public static final int wallet_buy_button_place_holder = 0x7f0d006c;
     }
     public static final class style {
         private style() {}

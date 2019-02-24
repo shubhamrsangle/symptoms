@@ -5,10 +5,15 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.Toast;
 
-public class addSymptoms extends AppCompatActivity {
+import java.util.ArrayList;
 
+import static com.parse.starter.MainActivity.Id;
+import static com.parse.starter.MainActivity.SymList;
+
+public class addSymptoms extends AppCompatActivity {
     public void goToSymptoms(View view){
         Log.i("addSymptoms","Coming Here");
 
@@ -21,6 +26,18 @@ public class addSymptoms extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_symptoms);
         Intent intent=getIntent();
+        SymList.add(intent.getStringExtra("Symptom"));
+        Id.put(intent.getStringExtra("Symptom"),intent.getStringExtra("ID"));
+        EditText editText=(EditText)findViewById(R.id.symps);
+        String z= "";
         Toast.makeText(this,intent.getStringExtra("Symptom"),Toast.LENGTH_LONG).show();
+        int i;
+        for (i=0;i<SymList.size();i++){
+            Log.i("All Sym", String.valueOf(SymList.get(i)));
+            Log.i("All Id",String.valueOf(Id.get(String.valueOf(SymList.get(i)))));
+            z=z+'\n'+String.valueOf(SymList.get(i));
+            editText.setText(z);
+
+        }
     }
 }

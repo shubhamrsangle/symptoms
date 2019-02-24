@@ -1789,7 +1789,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
@@ -3583,35 +3583,36 @@ public final class R {
     public static final int submit_area=0x7f0800d3;
     public static final int subtitle=0x7f0800d4;
     public static final int subtitle_view=0x7f0800d5;
-    public static final int tabMode=0x7f0800d6;
-    public static final int tab_host=0x7f0800d7;
-    public static final int terrain=0x7f0800d8;
-    public static final int test=0x7f0800d9;
-    public static final int text=0x7f0800da;
-    public static final int text1=0x7f0800db;
-    public static final int text2=0x7f0800dc;
-    public static final int textSpacerNoButtons=0x7f0800dd;
-    public static final int textTitle=0x7f0800de;
-    public static final int text_empty_message=0x7f0800df;
-    public static final int text_list_view=0x7f0800e0;
-    public static final int thing_proto=0x7f0800e1;
-    public static final int time=0x7f0800e2;
-    public static final int title=0x7f0800e3;
-    public static final int title_bar=0x7f0800e4;
-    public static final int title_template=0x7f0800e5;
-    public static final int title_view=0x7f0800e6;
-    public static final int toolbar=0x7f0800e7;
-    public static final int top=0x7f0800e8;
-    public static final int topPanel=0x7f0800e9;
-    public static final int txt_id=0x7f0800ea;
-    public static final int txt_name=0x7f0800eb;
-    public static final int up=0x7f0800ec;
-    public static final int url=0x7f0800ed;
-    public static final int useLogo=0x7f0800ee;
-    public static final int wide=0x7f0800ef;
-    public static final int withText=0x7f0800f0;
-    public static final int wrap=0x7f0800f1;
-    public static final int wrap_content=0x7f0800f2;
+    public static final int symps=0x7f0800d6;
+    public static final int tabMode=0x7f0800d7;
+    public static final int tab_host=0x7f0800d8;
+    public static final int terrain=0x7f0800d9;
+    public static final int test=0x7f0800da;
+    public static final int text=0x7f0800db;
+    public static final int text1=0x7f0800dc;
+    public static final int text2=0x7f0800dd;
+    public static final int textSpacerNoButtons=0x7f0800de;
+    public static final int textTitle=0x7f0800df;
+    public static final int text_empty_message=0x7f0800e0;
+    public static final int text_list_view=0x7f0800e1;
+    public static final int thing_proto=0x7f0800e2;
+    public static final int time=0x7f0800e3;
+    public static final int title=0x7f0800e4;
+    public static final int title_bar=0x7f0800e5;
+    public static final int title_template=0x7f0800e6;
+    public static final int title_view=0x7f0800e7;
+    public static final int toolbar=0x7f0800e8;
+    public static final int top=0x7f0800e9;
+    public static final int topPanel=0x7f0800ea;
+    public static final int txt_id=0x7f0800eb;
+    public static final int txt_name=0x7f0800ec;
+    public static final int up=0x7f0800ed;
+    public static final int url=0x7f0800ee;
+    public static final int useLogo=0x7f0800ef;
+    public static final int wide=0x7f0800f0;
+    public static final int withText=0x7f0800f1;
+    public static final int wrap=0x7f0800f2;
+    public static final int wrap_content=0x7f0800f3;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
@@ -3779,20 +3780,21 @@ public final class R {
     public static final int mr_media_route_controller_stop=0x7f0d005b;
     public static final int mr_system_route_name=0x7f0d005c;
     public static final int mr_user_route_category_name=0x7f0d005d;
-    public static final int parse_app_id=0x7f0d005e;
-    public static final int parse_client_key=0x7f0d005f;
-    public static final int place_autocomplete_clear_button=0x7f0d0060;
-    public static final int place_autocomplete_search_hint=0x7f0d0061;
-    public static final int search=0x7f0d0062;
-    public static final int status_bar_notification_info_overflow=0x7f0d0063;
-    public static final int store_picture_message=0x7f0d0064;
-    public static final int store_picture_title=0x7f0d0065;
-    public static final int tagmanager_preview_dialog_button=0x7f0d0066;
-    public static final int tagmanager_preview_dialog_message=0x7f0d0067;
-    public static final int tagmanager_preview_dialog_title=0x7f0d0068;
-    public static final int title_activity_driver_location=0x7f0d0069;
-    public static final int title_activity_rider=0x7f0d006a;
-    public static final int wallet_buy_button_place_holder=0x7f0d006b;
+    public static final int name=0x7f0d005e;
+    public static final int parse_app_id=0x7f0d005f;
+    public static final int parse_client_key=0x7f0d0060;
+    public static final int place_autocomplete_clear_button=0x7f0d0061;
+    public static final int place_autocomplete_search_hint=0x7f0d0062;
+    public static final int search=0x7f0d0063;
+    public static final int status_bar_notification_info_overflow=0x7f0d0064;
+    public static final int store_picture_message=0x7f0d0065;
+    public static final int store_picture_title=0x7f0d0066;
+    public static final int tagmanager_preview_dialog_button=0x7f0d0067;
+    public static final int tagmanager_preview_dialog_message=0x7f0d0068;
+    public static final int tagmanager_preview_dialog_title=0x7f0d0069;
+    public static final int title_activity_driver_location=0x7f0d006a;
+    public static final int title_activity_rider=0x7f0d006b;
+    public static final int wallet_buy_button_place_holder=0x7f0d006c;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0e0000;
@@ -7940,7 +7942,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>

@@ -22,17 +22,30 @@ import com.parse.ParseException;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
 
 public class MainActivity extends AppCompatActivity {
+    public static ArrayList<String> SymList =new ArrayList<String>();
+    public static Map<String, String> Id = new HashMap<String, String>();
+
 
   public void list(View view)
   {
+      SymList.clear();
+      Id.clear();
+      Log.i("All","symlist cleared");
       startActivity(new Intent(MainActivity.this, addSymptoms.class));
   }
 
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
+
+
+
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 

@@ -1078,6 +1078,7 @@ id strict_sandbox
 id submit_area
 id subtitle
 id subtitle_view
+id symps
 id tabMode
 id tab_host
 id terrain
@@ -1264,6 +1265,7 @@ string mr_media_route_controller_settings_description
 string mr_media_route_controller_stop
 string mr_system_route_name
 string mr_user_route_category_name
+string name
 string parse_app_id
 string parse_client_key
 string place_autocomplete_clear_button
