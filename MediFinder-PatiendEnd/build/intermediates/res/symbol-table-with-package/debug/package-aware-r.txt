@@ -955,6 +955,7 @@ id donate_with
 id donate_with_google
 id edit_query
 id email
+id emergenece
 id end
 id end_padder
 id end_text
@@ -1160,6 +1161,7 @@ layout abc_select_dialog_material
 layout activity_add_symptoms
 layout activity_emergency
 layout activity_main
+layout activity_nearby_hospital
 layout cast_expanded_controller_activity
 layout cast_help_text
 layout cast_intro_overlay

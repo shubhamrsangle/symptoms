@@ -14,7 +14,8 @@
         android:icon="@mipmap/ic_launcher"
         android:label="MediFinder-Patient"
         android:theme="@style/AppTheme">
-        <activity android:name=".Emergency"></activity>
+        <activity android:name=".nearbyHospital"></activity>
+        <activity android:name=".Emergency" />
         <activity android:name=".addSymptoms" />
         <activity
             android:name=".MainActivity"

@@ -2004,6 +2004,10 @@
         "source": "C:\\Users\\Shubham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f23cb1b056f05e8f42be67742d7fc3b5\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
+        "merged": "C:\\symptoms\\symptoms\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_activity_nearby_hospital.xml.flat",
+        "source": "C:\\symptoms\\symptoms\\MediFinder-PatiendEnd\\src\\main\\res\\layout\\activity_nearby_hospital.xml"
+    },
+    {
         "merged": "C:\\symptoms\\symptoms\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Shubham\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\6e125fe975004983b9e23d03b4ee94c7\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
