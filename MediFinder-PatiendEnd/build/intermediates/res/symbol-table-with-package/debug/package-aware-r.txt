@@ -1012,6 +1012,7 @@ id media_route_volume_slider
 id middle
 id monochrome
 id multiply
+id nearby
 id never
 id none
 id normal
@@ -1286,6 +1287,7 @@ string mr_media_route_controller_stop
 string mr_system_route_name
 string mr_user_route_category_name
 string name
+string nearby_hospital
 string parse_app_id
 string parse_client_key
 string place_autocomplete_clear_button

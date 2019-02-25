@@ -19,4 +19,5 @@
     <string name="search">search....</string>
     <string name="button">Button</string>
     <string name="name">Name</string>
+    <string name="nearby_hospital">Nearby Hospital</string>
 </resources>
