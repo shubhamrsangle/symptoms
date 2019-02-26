@@ -45,6 +45,11 @@ public class nearbyHospital extends AppCompatActivity {
         hospital.setDistance("36");
         hospitals.add(hospital);
 
+        hospital = new hospitalDetails();
+        hospital.setName("Rohith");
+        hospital.setDistance("69");
+        hospitals.add(hospital);
+
 
         hospitalView.setAdapter(new MyAdapter(this, hospitals));
 
